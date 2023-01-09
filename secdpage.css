@@ -1,0 +1,182 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration-line: none;
+    text-shadow: black;
+}
+.body{
+    /* display:flex ;
+    width:100%; */
+	margin: 0px auto;
+    
+}
+main{
+     display:flex ;
+    width:100%; 
+}
+.navbar{
+    background-color: rgb(250, 249, 247);
+    position: absolute;
+    width: 100%;
+    height: 130px;
+} 
+.navi{
+    
+    
+}
+ul{
+    position: relative;
+     padding-top:  100px;
+    font-weight: bolder;
+    left: center;
+    margin-left: 30%;
+    align-items: center;
+    font-weight: initial;
+    color: rgb(60, 59, 59);
+    
+    
+    
+    
+   
+}
+
+    
+
+ li{
+    display: inline-block;
+    position: relative;
+    font-style: normal;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    margin-right: 5%;
+    text-decoration-line: none;
+    
+    
+   
+    
+}
+li :hover{
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    border: 3px solid orange;
+
+}
+.logo{
+    position: relative;
+    margin-left: 40%;
+    margin-top: -95px;
+    
+    
+}
+
+
+.atext{
+    
+}
+ h2{
+    position: relative;
+    
+    margin-top: -350px;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    padding-left: 10%;
+    font-size: 40px;
+    color: aliceblue;
+    shadow: rgba(0, 0, 0, 0.905);
+    
+    
+}
+p{
+    position: relative;
+    padding-left: 10%;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: inherit;
+    font-size: 25px;
+    color: aliceblue;
+    text-shadow: rgba(0, 0, 0, 0.873);
+}
+.bimag{
+    margin-top: 110px;
+
+    
+}
+.cimag{
+
+    margin-top: 110px;
+
+}
+.ctext h2{
+    padding-bottom: 30px;
+}
+.dimag{
+    margin-top: 40px;
+
+}
+.eimag{
+    margin-top: 110px;
+
+}
+
+.etext{
+    margin-left: 60%;
+}
+.fimag{
+padding-top: 20px;
+}
+.ftext{
+    position: relative;
+    margin-top: -150px;
+    margin-right: 500px;
+    padding-top: 1px;
+}
+.footer{
+}
+.foter{
+    position: relative;
+    background-color: rgb(73, 70, 70);
+    width: 100%;
+    height: 280px;
+    margin-top: 20PX;
+}
+.cocaimg{
+ padding-top: 40px;
+ padding-left: 60px;
+}
+.fotertext h3{
+    color: white;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    padding-left: 60px;
+    padding-top: 10px;
+    font-size:medium;
+}
+.fotertext p{
+    font-size: 15px;
+    margin-left: -90px;
+    margin-top: 5px;
+}
+.foterrigthside ul{
+    margin-left: 1150px;
+    margin-top: -270px;
+    color: white;
+}
+ li:hover{
+    color: black;
+}
+.foterrigthside li{
+    display: inline-block;
+    position: relative;
+    margin-right: 10px;
+    margin-top: -60px;
+    padding-top: -100px;    
+
+}
+.fotericons {
+    margin-left: 1120px;
+    margin-top: -80px;
+}
+.fotericons li {
+   display: inline-block;
+   margin-right: 8px; ;
+}
+
+
